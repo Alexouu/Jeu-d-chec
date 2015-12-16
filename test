@@ -1,2 +1,5 @@
+git fetch origin
+git checkout -b sajid origin/sajid
+git merge master
 x=3
 print x
